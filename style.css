@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    margin-top: 250px;
+    color: rgb(148, 22, 22);
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/022/937/954/small_2x/classroom-background-school-blackboard-background-school-chalkboard-background-with-copy-space-ai-generative-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media(max-width:740px){
+    body{
+        text-align: center;
+        background-image: url(https://static.vecteezy.com/system/resources/thumbnails/022/937/954/small_2x/classroom-background-school-blackboard-background-school-chalkboard-background-with-copy-space-ai-generative-photo.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        margin-bottom: 270px;
+    }
+    
+}
